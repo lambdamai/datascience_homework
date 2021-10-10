@@ -16,6 +16,7 @@
 ## Data Science
 
 - [Домашнее задание #1](datascience/Homework_1.ipynb)
+- [Домашнее задание #2](datascience/Homework_2.ipynb)
 
 ## Python
 
